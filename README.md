@@ -3,6 +3,6 @@ for assignment
 ##Hello World
 ###Hello World
 
-*mango
-*orange
-*apple
+* mango
+* orange
+* apple
